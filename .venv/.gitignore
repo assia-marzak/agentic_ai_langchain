@@ -1,0 +1,14 @@
+# Environnement virtuel et dépendances
+.venv/
+__pycache__/
+*.py[cod]
+.langgraph_api/
+
+# Secrets (TRÈS IMPORTANT)
+.env
+
+# Configuration IDE
+.vscode/
+
+# Fichiers de verrouillage uv (optionnel, mais souvent ignoré si on veut juste le code)
+# .lock
